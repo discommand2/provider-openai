@@ -1,2 +1,2 @@
-# provider-template
-A starter template for integrating other LLM providers.
+# provider-openai
+OpenAI provider interface for discommand2.
